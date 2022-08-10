@@ -6,8 +6,8 @@
 
 - I like to write code
 - I am constantly learning new things
-- I also love cycling
-- And sometimes I play the guitar
+- I love cycling
+- I sometimes play the guitar
 
 ### Languages and Tools:
 
