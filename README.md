@@ -1,6 +1,6 @@
 ![Hi there, I`m Dmitry](https://github.com/Kotranec/Kotranec/blob/main/logo.jpg)
 
-### Hi there, I`m Dmitry
+## Hi there, I`m Dmitry
 
 ## I`m a FrontEnd Developer
 
